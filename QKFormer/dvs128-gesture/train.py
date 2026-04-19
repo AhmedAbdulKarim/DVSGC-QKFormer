@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, r'C:\Storage\KFUPM\T252\COE595\Project\Dataset Preparation\DVS-Gesture-Chain-repo')
+sys.path.insert(0, r'/kaggle/input/datasets/ahmedak37/dvsgc-t16-c4-s4-p57/')
 import dvsgc
 
 import datetime
